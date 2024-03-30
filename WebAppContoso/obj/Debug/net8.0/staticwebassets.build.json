@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EWbBFsrxW0ZWLKw49iBlISD6IMZguXfzZlRnxHy3kew=",
+  "Source": "WebAppContoso",
+  "BasePath": "_content/WebAppContoso",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
